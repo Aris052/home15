@@ -1,0 +1,68 @@
+{
+  "books": [
+    {
+      "id": "101",
+      "title": "Robinson Crusoe",
+      "author": "Daniel Defoe",
+      "rate": null,
+      "photo": "https://m.media-amazon.com/images/I/81eyr8gG8NL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": "102",
+      "title": "Stranger",
+      "author": "Albert Camus",
+      "rate": null,
+      "photo": "https://i0.wp.com/thegemsbok.com/wp-content/uploads/2015/11/The-Stranger-book-cover.png?resize=262%2C400"
+    }
+  ],
+  "comments": [
+    {
+      "id": "103",
+      "text": "Such a great book",
+      "rate": 5,
+      "book": "101"
+    },
+    {
+      "id": "104",
+      "text": "Horrible book",
+      "rate": 3,
+      "book": "101"
+    },
+    {
+      "id": "e06d",
+      "text": "ad",
+      "rate": 4,
+      "book": "101"
+    },
+    {
+      "id": "d31f",
+      "text": "asd",
+      "rate": 5,
+      "book": "101"
+    },
+    {
+      "id": "edb9",
+      "text": "asf",
+      "rate": 1,
+      "book": "101"
+    },
+    {
+      "id": "9392",
+      "text": "asd",
+      "rate": 4,
+      "book": "101"
+    },
+    {
+      "id": "8cc0",
+      "text": "asf",
+      "rate": 4,
+      "book": "101"
+    },
+    {
+      "id": "68d8",
+      "text": "afs",
+      "rate": 3,
+      "book": "101"
+    }
+  ]
+}
